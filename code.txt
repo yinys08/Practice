@@ -1,1 +1,2 @@
 int mian()
+fwo
